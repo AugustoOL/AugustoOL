@@ -1,10 +1,4 @@
 ## Eai eu sou o Augusto Oliveira Lima!
-- Atualmente estudo:
-- Engenharia Industrial Madereira 
-- Desenvolvimento de Sistemas
-
-
-
 <div align="center">
   <a href="https://github.com/AugustoOL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoOL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
