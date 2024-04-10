@@ -22,4 +22,3 @@
   <a href="https://api.whatsapp.com/send?phone=+5515997840702&text=Oi%20Augusto%2C%20contato%20pelo%20Github%2C%20tudo%20bem%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "https://discordapp.com/users/Gusto#1354/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>  
-  
