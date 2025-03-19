@@ -1,4 +1,4 @@
-## Eai eu sou o Augusto - Sou técnico em Desenvolvimento de Sistemas | Qualidade de Software (QA) & atualmente estudo: Engenharia de Software 
+## Eai eu sou o Augusto - Sou técnico Desenvolvedor Full Stack & QA
 <div align="center">
   <a href="https://github.com/AugustoOL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoOL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
